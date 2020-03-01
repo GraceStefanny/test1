@@ -1,5 +1,5 @@
-creacion de tablas
-
+--creacion de tablas
+-- clientes
 create table tp_clientes 
 ( nombre varchar(10),
   apellidos varchar(20))
