@@ -1,5 +1,3 @@
---creacion de tablas
--- clientes
 -- fecha :01/03
 create table tp_clientes 
 ( nombre varchar(10),
